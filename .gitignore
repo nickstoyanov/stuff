@@ -1,0 +1,16 @@
+build
+**/.vs
+**/*.user
+**/x64/
+.DS_Store
+.idea
+.vscode
+cmake-build-debug
+cmake-build-release
+
+song_genre_prediction/*.csv
+.ipynb_checkpoints
+reduced.csv
+*.jpg
+lyrics.csv
+
